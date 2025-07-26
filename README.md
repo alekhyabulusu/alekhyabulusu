@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **alekhyabulusu6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home]((https://drive.google.com/drive/u/0/home))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sfvykATLMGuoMauCwUmLUxTHsTzQoqsy/view?usp=sharing]((https://drive.google.com/file/d/1sfvykATLMGuoMauCwUmLUxTHsTzQoqsy/view?usp=sharing))
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/home]()
 
 <h3 align="left">Connect with me:</h3>
