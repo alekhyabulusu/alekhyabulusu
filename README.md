@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **alekhyabulusu6@gmail.com**
 
-- 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/file:///C:/Users/alekh/Downloads/Alekhya%20Resume.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/file:///C:/Users/alekh/Downloads/Alekhya%20Resume.pdf)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home]((https://drive.google.com/drive/u/0/home))
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/home]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
