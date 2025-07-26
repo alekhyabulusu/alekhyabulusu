@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekhyabulusu&label=Profile%20views&color=0e75b6&style=flat" alt="alekhyabulusu" /> </p>
 
-- 🌱 I’m currently learning **R, SQL, Power BI, Java**
+- 🌱 I’m currently learning **Machine Learning, SQL, LLMs**
 
 - 📫 How to reach me **alekhyabulusu6@gmail.com**
 
